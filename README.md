@@ -1,1 +1,1 @@
-Analysis codes of hormone receptors (HR).
+Analysis codes of hormone receptors (HRs).
