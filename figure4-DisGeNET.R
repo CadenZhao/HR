@@ -13,8 +13,8 @@ setwd('~/project/hormone_receptor_scRNA-2022-12-11/')
 
 #################################
 disgenet_api_key <- get_disgenet_api_key(
-  email = "xjzhao@genetics.ac.cn", 
-  password = "0523043x" )
+  email = "**********", 
+  password = "**********" )
 Sys.setenv(DISGENET_API_KEY= disgenet_api_key)
 
 #################################
